@@ -1,4 +1,4 @@
-# HH_model
+# HH model
 
 Source code for the HH model simulation.
 
